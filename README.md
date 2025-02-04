@@ -1,7 +1,3 @@
-Below is an updated README file that highlights the fact that this project is a learning project and not intended for professional use:
-
----
-
 # YouTube Analyser
 
 YouTube Analyser is a fun, learning-focused project that leverages the Google YouTube API to fetch a user's liked videos, subscriptions, and uploads. It then uses OpenAI embeddings to store this data in a ChromaDB vector store and processes it with GPT to generate humorous comments and assign a final score to the YouTube account.
